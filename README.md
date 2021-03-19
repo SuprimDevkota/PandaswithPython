@@ -1,2 +1,2 @@
 # PandaswithPython
-I used pandas to create the first admission list based on the entrance results to my college.
+I use pandas to learn more about dataframe manipulation by doing several projects.
