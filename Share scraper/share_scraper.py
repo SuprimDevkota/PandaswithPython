@@ -21,7 +21,7 @@ for company in comp_list:
 #creating a new column to hold the data stored in the list created above        
 df['Cash Dividend Rate'] = cash_div_list
 
-#getting the actual cash dividends and storing their data to a column as well
+#getting the actual cash dividends and storing their data in a column as well
 cash_dividend = []
 x = 0
 for company in df.index:
